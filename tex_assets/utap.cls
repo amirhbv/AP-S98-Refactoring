@@ -28,8 +28,8 @@
     \tolerance=5000
     \setlength{\parskip}{2ex plus1mm minus1mm}
     \settextfont[Path={./fonts/}, BoldFont={XB NiloofarBd.ttf}, BoldItalicFont={XB NiloofarBdIt.ttf}, ItalicFont={XB NiloofarIt.ttf}]{XB Niloofar.ttf}
-    % \setlatintextfont[Scale=0.8]{DejaVu Serif}
-    % \setmonofont[Scale=0.8]{DejaVu Sans Mono}
+    \setlatintextfont[Scale=0.8]{DejaVu Serif}
+    \setmonofont[Scale=0.8]{DejaVu Sans Mono}
     \renewcommand{\labelitemi}{$\circ$}
     \renewcommand{\labelitemii}{$\diamond$}
     \lstset{
